@@ -1,16 +1,22 @@
-#The International Genome Sample Resource Data
+#The International Genome Sample Resource - 1000 Genomes Sample Data
 
-The International Genome Sample Resource (IGSR) presents all its data through the [1000 Genomes FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/) and the [mirror site](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/) hosted at the NCBI
+The International Genome Sample Resource (IGSR) presents all the data it has on the 1000 Genomes samples through the [1000 Genomes FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/) and the [mirror site](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/) hosted at the NCBI
 
 Currently this FTP site contains the three main releases of the 1000 Genomes Project. 
 
-##Phase 3 release
+##1000 Genomes Phase 3 release
 
-##Phase 1 release
+The Phase 3 release contains more than 84 million variants and genotypes for 2504 individuals from 26 different populations. These files are presenting in VCF format in the [20130502 release directory](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/)
 
-##Pilot Release
+The sequence and alignment data which support these results can be found under [ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3). 
 
-##Data Access Tools
+Functional annotation, genotypes for related samples, per sample depth cover and other affiliated resources can be found in the [supporting directory](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/supporting/)
+
+##1000 Genomes Phase 1 release
+
+##1000 Genomes Pilot Release
+
+##1000 Genomes Data Access Tools
 
 The [FTP site](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/) is accessible over [FTP](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/) and [HTTP](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/). It is also accessible via two fast download tools, aspera and globus grid ftp.
 
