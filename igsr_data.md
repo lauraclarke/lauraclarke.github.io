@@ -42,3 +42,5 @@ When you have setup your personal end point you should be able to start a transf
 ![Globus screenshot](http://www.1000genomes.org/sites/1000genomes.org/files/documents/globus_1000genomes.png)
 
 The Globus website has support for [setting up accounts](https://support.globus.org/entries/23583857-Sign-Up-and-Transfer-Files-with-Globus-Online), and [installing the globus personal connect software](https://support.globus.org/forums/22130516-Globus-Connect-Personal)
+
+This is a test to see if I can make an edit
